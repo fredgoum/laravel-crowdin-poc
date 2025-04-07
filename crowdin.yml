@@ -1,3 +1,5 @@
 files:
   - source: /lang.php
-    translation: '%original_file_name%'
+    translation: /%two_letters_code%/lang.php
+    scheme: php_array
+
