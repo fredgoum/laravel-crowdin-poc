@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'welcome' => 'Bienvenue sur notre plateforme !',
-    'goodbye' => 'Au revoir et à bientôt.',
-    'error_404' => 'Page non trouvée.',
+    'welcome' => 'Welcome to our platform !',
+    'goodbye' => 'Goodbye and soon.',
+    'error_404' => 'Page Not Found.',
     'reset_password' => 'Reset password',
     'validation_failed' => 'Validation failed. Please check your information.',
 ];
