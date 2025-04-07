@@ -1,3 +1,3 @@
 files:
-  - source: /
+  - source: /lang.php
     translation: '%original_file_name%'
